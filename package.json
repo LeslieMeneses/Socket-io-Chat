@@ -1,0 +1,28 @@
+{
+  "name": "socket-io",
+  "version": "1.0.0",
+  "description": "Chat with socket io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeslieMeneses/Socket-io-Chat.git"
+  },
+  "keywords": [
+    "chat",
+    "socket",
+    "io"
+  ],
+  "author": "Catalina Meneses",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeslieMeneses/Socket-io-Chat/issues"
+  },
+  "homepage": "https://github.com/LeslieMeneses/Socket-io-Chat#readme",
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.4.5"
+  }
+}
